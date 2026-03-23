@@ -42,6 +42,6 @@
     "gulp-dalek": "0.0.1",
     "gulp-util": "^3.0.8",
     "matchdep": "^2.0.0",
-    "shelljs": "^0.8.2"
+    "shelljs": "^0.10.0"
   }
 }
