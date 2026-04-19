@@ -38,7 +38,7 @@
     "grunt-dalek": "^0.2.0",
     "grunt-notify": "^0.4.5",
     "grunt-readme-generator": "^0.3.41",
-    "grunt-shell": "^2.1.0",
+    "grunt-shell": "^4.0.0",
     "gulp-dalek": "0.0.1",
     "gulp-util": "^3.0.8",
     "matchdep": "^2.0.0",
